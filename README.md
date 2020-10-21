@@ -1,0 +1,2 @@
+# Spelling-Recommender
+Created three different spelling recommenders, that each take a list of misspelled words and recommends a correctly spelled word for every word in the list. Each spelling recommender uses different Jaccard distance metrics. For every misspelled word, the recommender find the word in correct spellings that has the shortest distance, and starts with the same letter as the misspelled word, and return that word as a recommendation.
